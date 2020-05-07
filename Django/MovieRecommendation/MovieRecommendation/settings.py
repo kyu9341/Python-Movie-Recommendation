@@ -80,7 +80,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'MovieRecommendation',
         'USER': 'root',
-        'PASSWORD': 'asas120700',
+        'PASSWORD': 'password',
         'HOST': 'localhost',
         'PORT': '81',
     }
